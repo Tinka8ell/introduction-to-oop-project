@@ -10,8 +10,14 @@ A set of activities to give an overview of the concepts of modelling &amp; Objec
   * [Activity Four](Exercises/activity_4.md)
   * [Activity Five](Exercises/activity_5.md)
 * Work through the activities in order for that language track and commit your work to your introduction-to-oop-project Github repository
+  * Exercise One:
+    * No output, just a reading exercise
+  * Exercise Two: 
+    * [Diagram for Exercise 2.3](./Solutions/Exercise%202.3.jpg)
+    * [Bird class for Exercise 2.4-5](./src/main/java/com/tinkabell/exercises/Bird.java)
+    * [Output from Exercise 2.5](./Solutions/Exercise%202.5%20Output.txt)
 
 ## Notes
 * Each activity contains Key Study Notes highlighting key concepts for your learning
-* The solutions folder contains the solutions to the UML diagramming exercises. 
+* The [ProvidedSolution](./ProvidedSolution) folder contains the solutions to the UML diagramming exercises. 
   * We recommend you try the exercises first before looking at the final solution for the best learning experience.
