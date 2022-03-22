@@ -16,6 +16,11 @@ A set of activities to give an overview of the concepts of modelling &amp; Objec
     * [Diagram for Exercise 2.3](./Solutions/Exercise%202.3.jpg)
     * [Bird class for Exercise 2.4-5](./src/main/java/com/tinkabell/exercises/Bird.java)
     * [Output from Exercise 2.5](./Solutions/Exercise%202.5%20Output.txt)
+  * Exercise Three:
+    * [Diagram for Exercise 3.2](./Solutions/Exercise%203.2.jpg)
+    * [Pigeon class for Exercise 3.3-4](./src/main/java/com/tinkabell/exercises/Pigeon.java)
+    * [Output from Exercise 3.4](./Solutions/Exercise%203.4%20Output.txt)
+    * [Output from Exercise 3 Optional](./Solutions/Exercise%203%20Optional%20Output.txt)
 
 ## Notes
 * Each activity contains Key Study Notes highlighting key concepts for your learning

@@ -1,0 +1,8 @@
+"C:\Program Files\Java\jdk-17.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\lib\idea_rt.jar=58856:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\marki\workspace\introduction-to-oop-project\out\production\introduction-to-oop-project com.tinkabell.exercises.Bird
+My name is Tweety and I am a Yellow bird.
+I'm Tweety and I can fly high in the blue sky!
+My name is Pippa and I am a Grey bird.
+I'm Pippa and I can fly high in the blue sky!
+Delicious pizza!
+
+Process finished with exit code 0
