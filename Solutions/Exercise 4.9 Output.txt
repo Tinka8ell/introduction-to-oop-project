@@ -1,0 +1,11 @@
+"C:\Program Files\Java\jdk-17.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\lib\idea_rt.jar=59830:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\marki\workspace\introduction-to-oop-project\out\production\introduction-to-oop-project com.tinkabell.exercises.Bird
+Yo! I'm Pippa and I'm a Grey pigeon.
+I'm Pippa and I can fly high in the blue sky!
+Delicious pizza!
+I'm a sleeping pigeon
+Yo! I'm Pingu and I'm a Black & White penguin.
+Whoops, I can't fly. Waddle waddle.
+Who's a pretty boy? I'm Polly and I'm a Green parrot.
+I'm Polly and I can fly high in the blue sky!
+
+Process finished with exit code 0

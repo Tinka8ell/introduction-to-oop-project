@@ -21,6 +21,15 @@ A set of activities to give an overview of the concepts of modelling &amp; Objec
     * [Pigeon class for Exercise 3.3-4](./src/main/java/com/tinkabell/exercises/Pigeon.java)
     * [Output from Exercise 3.4](./Solutions/Exercise%203.4%20Output.txt)
     * [Output from Exercise 3 Optional](./Solutions/Exercise%203%20Optional%20Output.txt)
+  * Exercise Three:
+    * [Diagram for Exercise 4.3](./Solutions/Exercise%204.3.jpg)
+    * Pigeon and Bird classes changed (links above)
+    * [Output from Exercise 4.5](./Solutions/Exercise%204.5%20Output.txt)
+    * [Diagram for Exercise 4.6](./Solutions/Exercise%204.6.jpg)
+    * [Penguin class for Exercise 4.7-8](./src/main/java/com/tinkabell/exercises/Penguin.java)
+    * [Output from Exercise 4.8](./Solutions/Exercise%204.8%20Output.txt)
+    * [Parrot class for Exercise 4.9](./src/main/java/com/tinkabell/exercises/Parrot.java)
+    * [Output from Exercise 4.9](./Solutions/Exercise%204.9%20Output.txt)
 
 ## Notes
 * Each activity contains Key Study Notes highlighting key concepts for your learning

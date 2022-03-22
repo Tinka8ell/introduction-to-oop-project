@@ -1,6 +1,6 @@
 package com.tinkabell.exercises;
 
-public class Bird {
+public abstract class Bird {
     protected String name;
     protected String color;
 
@@ -9,22 +9,23 @@ public class Bird {
         this.color = color;
     }
 
-    public void speak() {
-        System.out.println("My name is " + name + " and I am a " + color + " bird.");
-    }
+    public abstract void speak();
 
     public void fly() {
         System.out.println("I'm " + name + " and I can fly high in the blue sky!");
     }
 
     public static void main(String[] args) {
-        Bird myBird = new Bird("Tweety", "Yellow");
-        myBird.speak();
-        myBird.fly();
         Pigeon pippa = new Pigeon("Pippa", "Grey");
         pippa.speak();
         pippa.fly();
         pippa.eatPizza();
         pippa.sleep();
+        Bird pingu = new Penguin("Pingu", "Black & White");
+        pingu.speak();
+        pingu.fly();
+        Bird polly = new Parrot("Polly", "Green");
+        polly.speak();
+        polly.fly();
     }
 }
