@@ -14,18 +14,22 @@ A set of activities to give an overview of the concepts of modelling &amp; Objec
     * No output, just a reading exercise
   * Exercise Two: 
     * [Diagram for Exercise 2.3](./Solutions/Exercise%202.3.jpg)
+    * [diagram.net version](./Solutions/BasicBird.drawio)
     * [Bird class for Exercise 2.4-5](./src/main/java/com/tinkabell/exercises/Bird.java)
     * [Output from Exercise 2.5](./Solutions/Exercise%202.5%20Output.txt)
   * Exercise Three:
     * [Diagram for Exercise 3.2](./Solutions/Exercise%203.2.jpg)
+    * [diagram.net version](./Solutions/Bird&Pigeon.drawio)
     * [Pigeon class for Exercise 3.3-4](./src/main/java/com/tinkabell/exercises/Pigeon.java)
     * [Output from Exercise 3.4](./Solutions/Exercise%203.4%20Output.txt)
     * [Output from Exercise 3 Optional](./Solutions/Exercise%203%20Optional%20Output.txt)
   * Exercise Four:
     * [Diagram for Exercise 4.3](./Solutions/Exercise%204.3.jpg)
+    * [diagram.net version](./Solutions/AbstractBird.drawio)
     * Pigeon and Bird classes changed (links above)
     * [Output from Exercise 4.5](./Solutions/Exercise%204.5%20Output.txt)
     * [Diagram for Exercise 4.6](./Solutions/Exercise%204.6.jpg)
+    * [diagram.net version](./Solutions/BirdPigeon&Penguin.drawio)
     * [Penguin class for Exercise 4.7-8](./src/main/java/com/tinkabell/exercises/Penguin.java)
     * [Output from Exercise 4.8](./Solutions/Exercise%204.8%20Output.txt)
     * [Parrot class for Exercise 4.9](./src/main/java/com/tinkabell/exercises/Parrot.java)
@@ -33,11 +37,13 @@ A set of activities to give an overview of the concepts of modelling &amp; Objec
     * [Output from Exercise 4.9](./Solutions/Exercise%204.9%20Output.txt)
   * Exercise Five:
     * [Diagram for Exercise 5.1](./Solutions/Exercise%205.1.jpg)
+    * [diagram.net version](./Solutions/AddDance.drawio)
     * [Dance interface for Exercise 5.2](./src/main/java/com/tinkabell/exercises/Dance.java)
     * Bird class changed (link above)
     * [Output from Exercise 5.4](./Solutions/Exercise%205.4.txt)
 
 ## Notes
+* [diagram.net](https://app.diagrams.net/) is the plugin used to generate the UML 
 * Each activity contains Key Study Notes highlighting key concepts for your learning
 * The [ProvidedSolution](./ProvidedSolution) folder contains the solutions to the UML diagramming exercises. 
   * We recommend you try the exercises first before looking at the final solution for the best learning experience.
